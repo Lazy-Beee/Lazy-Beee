@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lazy-Beee
 - 👀 I’m interested in control/robotics
 - 🌱 I’m currently learning ME masters
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on world-changing projects
 - 📫 How to reach me junfan@umich.edu
 
 <!---
